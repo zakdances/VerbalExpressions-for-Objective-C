@@ -63,8 +63,8 @@ Pod::Spec.new do |s|
   # s.platform     = :ios, '5.0'
 
   #  When using multiple platforms
-  # s.ios.deployment_target = '5.0'
-  # s.osx.deployment_target = '10.7'
+  s.ios.deployment_target = '6.1'
+  s.osx.deployment_target = '10.7'
 
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -73,7 +73,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/boredzo/VerbalExpressions-for-Objective-C.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/zakdances/VerbalExpressions-for-Objective-C.git", :commit => "633abf856a9da1f666f339ccfaa820c24ec99250" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
