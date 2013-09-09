@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 
 
 
-  s.source       = { :git => "https://github.com/zakdances/VerbalExpressions-for-Objective-C.git", :commit => "633abf856a9da1f666f339ccfaa820c24ec99250" }
+  s.source       = { :git => "https://github.com/zakdances/VerbalExpressions-for-Objective-C.git", :tag => "v#{s.version}" }
 
 
 
