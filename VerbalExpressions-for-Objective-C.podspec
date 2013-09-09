@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
                    This is an Objective-C implementation of @jehna's VerbalExpressions project. This is an original implementation; I have copied only the method names, nothing more.
                    DESC
 
-  s.homepage     = "http://EXAMPLE/VerbalExpressions-for-Objective-C"
+  s.homepage     = "https://github.com/boredzo/VerbalExpressions-for-Objective-C"
 
 
   s.license      = 'MIT'
