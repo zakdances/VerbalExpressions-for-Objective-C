@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "VerbalExpressions-for-Objective-C"
-  s.version      = "0.0.0"
+  s.version      = "0.0.1"
   s.summary      = "A short description of VerbalExpressions-for-Objective-C."
 
   s.description  = <<-DESC
@@ -50,7 +50,7 @@ Pod::Spec.new do |s|
   #  found CocoaPods accept just the names.
   #
 
-  s.author       = { "Peter Hosey" }
+  s.author       = { "Peter Hosey" => "" }
 
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
